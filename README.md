@@ -1,5 +1,11 @@
 # la-geo-hub
 
+# Environment Setup
+
+```
+pip install -r requirements.txt
+```
+
 # How to get latest data
 
 ```
